@@ -9,7 +9,6 @@
   - [Languages](#languages)
   - [License](#license)
   - [Tests](#tests)
-  - [Questions](#questions)
 
   ## Description
   Simple note taking application. To create notes and delete when needed. 
@@ -20,13 +19,19 @@
 # Notespage
 <img width="1176" alt="notespage" src="https://user-images.githubusercontent.com/102159748/191642496-b32becd8-e520-4380-9711-66c9758549fb.png">
 
+# Deployed 
+  
+  ### [Github-Pages](https://graydevon.github.io/Note-Taker/)
+  
+  ### [Heroku-Deployed](https://calm-tor-99127.herokuapp.com/)
+
   ## Installation
   Install node.js, express.js
 
   ## Usage
 
   [heroku deployment](https://lit-falls-95371.herokuapp.com/)
-  Clicking on the `+` button will all the user to create a new note that will then be displayed on the left side of the page. If the user choses to delete the note. They can then press on the trash icon. 
+  Clicking on the `+` button will all the user to create a new note that will then be displayed on the left side of the page. If the user choses to delete   the note. They can then press on the trash icon. 
 
   ## Contributing
   [github repository](https://github.com/graydevon/Note-Taker)
