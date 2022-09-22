@@ -1,7 +1,7 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   ## Table of Contents    - [Description](#description)   - [Installation](#installation)   - [Usage](#usage)   - [Contributing](#contributing)   - [Languages](#languages)   - [License](#license)   - [Tests](#tests)   - [Questions](#questions)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/graydevon/Note-Taker/issues"
   },
-  "homepage": "https://github.com/graydevon/Note-Taker#readme"
+  "homepage": "https://github.com/graydevon/Note-Taker#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
