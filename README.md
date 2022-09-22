@@ -14,9 +14,11 @@
   ## Description
   Simple note taking application. To create notes and delete when needed. 
 
-  ![landing Page](<img width="1173" alt="homepage" src="https://user-images.githubusercontent.com/102159748/191642405-9a5b3ed1-e787-4789-8250-8c0500da0bc2.png">)
+# Homepage
+<img width="1173" alt="homepage" src="https://user-images.githubusercontent.com/102159748/191643707-aa220481-72d4-4976-90ac-3320449ef9b2.png">
 
-  ![Notes Page](<img width="1176" alt="notespage" src="https://user-images.githubusercontent.com/102159748/191642496-b32becd8-e520-4380-9711-66c9758549fb.png">)
+# Notespage
+<img width="1176" alt="notespage" src="https://user-images.githubusercontent.com/102159748/191642496-b32becd8-e520-4380-9711-66c9758549fb.png">
 
   ## Installation
   Install node.js, express.js
